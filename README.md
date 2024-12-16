@@ -39,8 +39,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mayank-dudhatra&show_icons=true&locale=en" alt="mayank-dudhatra" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayank-dudhatra&" alt="mayank-dudhatra" /></p>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayank-dudhatra&" alt="mayank-dudhatra" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=mayank-dudhatra&amp;" style="max-width: 100%;" /></p>
 
 
 <!--
